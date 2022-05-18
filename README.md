@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🍰 I'm 16.
+- 🍰 I'm 15.
 - 🔭 I'm currently working on **_PayloadReboot_**. I create it in C++ with SDL2.
 - 🌱 I'm curretnly learning SDL2_gfx.
 - 👯 I'm looking to collaborate to create one homebrew on Nintendo Switch.
