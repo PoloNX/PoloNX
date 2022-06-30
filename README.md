@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🍰 I'm 15.
-- 🔭 I'm currently working on **_PayloadReboot_**. I create it in C++ with SDL2.
-- 🌱 I'm curretnly learning SDL2_gfx.
+- 🔭 I'm currently working on **_AtmoPackUpdater_**. I create it in C++ with cURL and zlib.
+- 🌱 I'm curretnly learning cURL.
 - 👯 I'm looking to collaborate to create one homebrew on Nintendo Switch.
 - 📮 How to reach me: _discord_ : **PoloNX#9999** | _twitter_ : **@PoloNX**
 - 😄 Pronouns: He/Him
