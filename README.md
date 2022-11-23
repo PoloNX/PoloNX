@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🍰 I'm 15.
-- 🔭 I'm currently working on **cargo-nx**.
-- 🌱 I'm currently learning rust.
+- 🍰 I'm 16.
+- 🔭 I'm currently working on **C++ skills**.
+- 🌱 I'm currently learning OpenGL.
 - 👯 I'm looking to collaborate to create one homebrew on Nintendo Switch (dm me on discord if you want to do this).
 - 📮 How to reach me: _discord_ : **PoloNX#9999** | _twitter_ : **@PoloNX**
 - 😄 Pronouns: He/Him
