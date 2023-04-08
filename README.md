@@ -5,7 +5,6 @@
 - 🌱 I'm currently learning OpenGL.
 - 👯 I'm looking to collaborate to create one homebrew on Nintendo Switch (dm me on discord if you want to do this).
 - 📮 How to reach me: _discord_ : **PoloNX#9999**
-- 😄 Pronouns: He/Him
 
 ## My activity 🖥️ 
 
