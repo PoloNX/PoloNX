@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polonx&theme=onedark" alt="polonx" /></a> </p>
 
-- 🔭 I’m currently working on [Ls-News](https://github.com/PoloNX/Ls-News)
+- 🔭 I’m currently working on... nothing ?
 
 - 🌱 I’m currently learning **mathematics!**
 
