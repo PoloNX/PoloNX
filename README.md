@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PoloNX</h1>
-<h3 align="center">I'm 16 yo and I'm a french dev in C++</h3>
+<h3 align="center">I'm 17 yo and I'm a french dev in C++</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=polonx&theme=onedark" alt="polonx" /></a> </p>
 
